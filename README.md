@@ -3,5 +3,5 @@
 Sample Image
 -------------------------------------
 
-![GitHub Logo](/images/home.png)
+![GitHub Logo](/images/3.png)
 
